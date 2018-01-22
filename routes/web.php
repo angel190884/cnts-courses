@@ -18,3 +18,11 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+
+//pruebas
+Route::get('/tutorial', 'HomeController@index')->name('tutorial');
+Route::get('/profile', 'HomeController@index')->name('profile');
+Route::get('/change_password', 'HomeController@index')->name('change_password');
