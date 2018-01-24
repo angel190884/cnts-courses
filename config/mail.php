@@ -60,6 +60,7 @@ return [
         'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
 
+
     /*
     |--------------------------------------------------------------------------
     | E-Mail Encryption Protocol
@@ -73,6 +74,23 @@ return [
 
     'encryption' => env('MAIL_ENCRYPTION', 'tls'),
 
+    /*
+    |--------------------------------------------------------------------------
+    | saltar verificacion tls
+    |--------------------------------------------------------------------------
+    |
+    | opciones para poder mandar correos desde gmail
+    | sin que te pida certificado
+    | borrar cuando se solucione este problema todo aceptar tls
+    |
+    */
+    'stream' => [
+        'ssl' => [
+            'allow_self_signed' => true,
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
+    ],
     /*
     |--------------------------------------------------------------------------
     | SMTP Server Username
