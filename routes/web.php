@@ -22,7 +22,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 
-//pruebas
-Route::get('/tutorial', 'HomeController@index')->name('tutorial');
+//rutas sin login para view welcome
+Route::get('/contact', 'WelcomeController@contact')->name('contact');
 Route::get('/profile', 'HomeController@index')->name('profile');
 Route::get('/change_password', 'HomeController@index')->name('change_password');
