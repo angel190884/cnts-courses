@@ -3,7 +3,7 @@
 @section('content')
     <!--  HOME SLIDER BLOCK  -->
 
-    <div class="slider-wrap" id="home">
+    <div class="slider-wrap">
 
         <div id="slider_1" class="owl-carousel owl-theme">
 
@@ -69,8 +69,8 @@
             <div class="row">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading"><span>Acerca de</span> Nosotros</h2>
-                    <p class="section-subheading">El CNTS y el area de cursos pone a su disposicion los diplomados:</p>
+                    <h2 class="section-heading"><span>Como</span> Inscribirte</h2>
+                    <p class="section-subheading">Los 4 pasos para poder inscribirte:</p>
                 </div> <!-- end .col-sm-10  -->
 
             </div> <!--  end .row  -->
@@ -373,8 +373,8 @@
             <div class="row section-heading-wrapper">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading">Our Volunteers</h2>
-                    <p class="section-subheading">The volunteers who give their time and talents help to fulfill our mission.</p>
+                    <h2 class="section-heading">Nuestros Tutores</h2>
+                    <p class="section-subheading">Algunos de nuestros tutores.</p>
                 </div> <!-- end .col-sm-10  -->
 
             </div> <!-- end .row  -->
@@ -487,8 +487,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="cta-content text-center">
-                        <h2>Join with us and save life</h2>
-                        <a class="btn-cta-3" href="#">Become Volunteer</a>
+                        <h2>Lista de Cursos y Diplomados impartidos por cnts</h2>
+                        <a class="btn-cta-3" href="#">Ir a Listado</a>
                     </div>
                 </div> <!-- end .col-md-12 -->
             </div> <!-- end .row  -->
@@ -504,8 +504,8 @@
             <div class="row section-heading-wrapper">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading">Donation Campaigns</h2>
-                    <p class="section-subheading">Campaigns to encourage new donors to join and existing to continue to give blood.</p>
+                    <h2 class="section-heading">Lista completa de nuestros tutores</h2>
+                    <p class="section-subheading">Nuestros tutores estan cerficados por la unam, oms, etc...</p>
                 </div> <!-- end .col-sm-12  -->
 
             </div> <!-- end .row  -->
@@ -527,14 +527,14 @@
 
                             <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                                 <div class="event-details">
-                                    <a class="latest-date" href="#">14 June, 2017</a>
+                                    <a class="latest-date" href="#">Materia o especialidad</a>
                                     <h4 class="event-latest-title">
-                                        <a href="#">World Blood Donors Day</a>
+                                        <a href="#">Nombre del Tutor </a>
                                     </h4>
-                                    <p>Every year, on 14 June, countries around the world celebrate World Blood Donor Day. The event serves to thank voluntary.</p>
+                                    <p>Descripción, on 14 June, countries around the world celebrate World Blood Donor Day. The event serves to thank voluntary.</p>
                                     <div class="event-latest-details">
-                                        <a class="author" href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00am - 3.00pm</a>
-                                        <a class="comments" href="#"> <i class="fa fa-map-marker" aria-hidden="true"></i> California, USA</a>
+                                        <a class="author" href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Escuela</a>
+                                        <a class="comments" href="#"> <i class="fa fa-map-marker" aria-hidden="true"></i> Lugar de residencia</a>
                                     </div>
                                 </div>
                             </div> <!--  col-sm-7  -->
@@ -643,7 +643,7 @@
 
             <div class="row">
                 <div class="col-sm-12 col-md-4 col-md-offset-4 text-center">
-                    <a class="btn btn-load-more" href="#">Load All Campaigns</a>
+                    <a class="btn btn-load-more" href="#">Lista Completa</a>
                 </div>
             </div>
 
@@ -660,8 +660,8 @@
             <div class="row section-heading-wrapper">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading">Photo Gallery</h2>
-                    <p class="section-subheading">Campaign photos of different parts of world and our prestigious voluntary work</p>
+                    <h2 class="section-heading">Fotos de los cursos y diplomados</h2>
+                    <p class="section-subheading">Descripción de la galería</p>
                 </div> <!-- end .col-sm-10  -->
 
 
@@ -776,8 +776,8 @@
             <div class="row section-heading-wrapper">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading">Our Sponsors</h2>
-                    <p class="section-subheading">The sponsors who give their valuable amount to fulfill our mission.</p>
+                    <h2 class="section-heading">Instituciones que avalan nuestros diplomados.</h2>
+                    <p class="section-subheading">Estas son algunas de las Instituciones que nos avalan.</p>
                 </div> <!-- end .col-sm-10  -->
 
             </div> <!-- end .row  -->

@@ -31,7 +31,7 @@
 
 <!--  HEADER -->
 
-<header class="main-header clearfix" data-sticky_header="true">
+<header class="main-header clearfix" data-sticky_header="true" id="home">
 
     <div class="top-bar clearfix">
 
@@ -77,8 +77,8 @@
 
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#home" title="Home Layout 01">Home</a></li>
-                        <li><a href="#about" title="Acerca de Nosotros">Acerca de Nosotros</a></li>
+                        <li><a href="#home" title="Home Layout 01">Inicio</a></li>
+                        <li><a href="#about" title="Acerca de Nosotros">Como Inscribirte</a></li>
                         <li><a href="#tutor">Tutores</a></li>
                         <li><a href="#galery">Galeria</a></li>
                         <li><a href="#blog">Blog</a></li>
@@ -144,15 +144,15 @@
                     <div class="footer-widget">
                         <div class="sidebar-widget-wrapper">
                             <div class="footer-widget-header clearfix">
-                                <h3>Subscribe Us</h3>
+                                <h3>Quieres información</h3>
                             </div>
-                            <p>Signup for regular newsletter and stay up to date with our latest news.</p>
+                            <p>Dejanos tu e-mail y te haremos llegar informacion de nuevos cursos y diplomados.</p>
                             <div class="footer-subscription">
                                 <p>
                                     <input id="mc4wp_email" class="form-control" required="" placeholder="Enter Your Email" name="EMAIL" type="email">
                                 </p>
                                 <p>
-                                    <input class="btn btn-default" value="Subscribe Now" type="submit">
+                                    <input class="btn btn-default" value="Quiero información!" type="submit">
                                 </p>
                             </div>
                         </div>
@@ -167,17 +167,17 @@
                         <div class="sidebar-widget-wrapper">
 
                             <div class="footer-widget-header clearfix">
-                                <h3>Contact Us</h3>
+                                <h3>Nos puedes contactar en:</h3>
                             </div>  <!--  end .footer-widget-header -->
 
 
                             <div class="textwidget">
 
-                                <i class="fa fa-envelope-o fa-contact"></i> <p><a href="#">support@donation.com</a><br/><a href="#">helpme@donation.com</a></p>
+                                <i class="fa fa-envelope-o fa-contact"></i> <p><a href="#">cntscursos@gmail.com</a><br/><a href="#">helpme@donation.com</a></p>
 
-                                <i class="fa fa-location-arrow fa-contact"></i> <p>Road-2,3/A East Shibgonj<br/>Sylhet-3100, Bangladesh</p>
+                                <i class="fa fa-location-arrow fa-contact"></i> <p>Othón de Mendizabal 195,<br/>Col. Zacatenco, CDMX. C.P. 07360</p>
 
-                                <i class="fa fa-phone fa-contact"></i> <p>Office:&nbsp; (+880) 0823 560 433<br/>Cell:&nbsp; (+880) 0723 161 343</p>
+                                <i class="fa fa-phone fa-contact"></i> <p>Office:&nbsp; (55) 63-92-22-50<br/>Ext:&nbsp; 51616, 51619 </p>
 
                             </div>
 
@@ -194,7 +194,7 @@
                         <div class="sidebar-widget-wrapper">
 
                             <div class="footer-widget-header clearfix">
-                                <h3>Support Links</h3>
+                                <h3>Enlaces Relacionados</h3>
                             </div>  <!--  end .footer-widget-header -->
 
 
@@ -293,7 +293,7 @@
             <div class="row clearfix">
 
                 <div class="col-md-6 col-sm-12">
-                    <p class="copyright-text"> Copyright © 2017, All Right Reserved - by xenioushk </p>
+                    <p class="copyright-text"> Copyright © 2018, Todos los derechos Reservados - por <a href="https://www.gob.mx/cnts">CNTS</a> </p>
 
                 </div>  <!-- end .col-sm-6  -->
 
