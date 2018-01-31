@@ -116,26 +116,39 @@ return [
             'icon' => 'home',
         ],
         [
-            'text' => 'Tutoriales',
-            'url'  => 'tutorial',
-            'icon' => 'book',
+            'text' => 'Inscripciones',
+            'icon' => 'address-card-o',
+            'can'  => 'inscription',
+            'submenu' => [
+                [
+                    'text' => 'Inscripción',
+                    'url'  => '#',
+                    'icon' => 'arrow-circle-o-right',
+                ],
+            ]
         ],
         'CONFIGURACIÓN DE LA CUENTA',
         [
-            'text' => 'Profile',
+            'text' => 'Perfil',
             'icon' => 'user',
             'submenu' => [
                 [
-                    'text' => 'Profile',
+                    'text' => 'Edit',
                     'url'  => 'profile',
                     'icon' => 'edit',
                 ],
                 [
-                    'text' => 'Change Password',
+                    'text' => 'Cambiar contraseña',
                     'url'  => 'change_password',
                     'icon' => 'lock',
                 ],
             ]
+        ],
+        'TUTORIALES Y MANUALES',
+        [
+            'text' => 'Tutoriales',
+            'url'  => 'tutorial',
+            'icon' => 'book',
         ],
         'EXAMPLES',
         [

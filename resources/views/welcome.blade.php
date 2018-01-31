@@ -8,7 +8,7 @@
         <div id="slider_1" class="owl-carousel owl-theme">
 
             <div class="item">
-                <img src="{{ asset('images/home_1_slider_1.jpg') }}" alt="img">
+                <img src="{{ asset('images/home_1_slider_2.jpg') }}" alt="img">
                 <div class="slider-content text-center">
                     <div class="container">
 
@@ -24,7 +24,7 @@
             </div>
 
             <div class="item">
-                <img src="{{ asset('images/home_1_slider_2.jpg') }}" alt="img">
+                <img src="{{ asset('images/home_1_slider_1.jpg') }}" alt="img">
                 <div class="slider-content text-center">
                     <div class="container">
                         <div class="slider-contents-info">
@@ -90,7 +90,7 @@
                         </figure> <!-- end .process-img  -->
 
                         <article class="process-info">
-                            <h2>Registration</h2>
+                            <h2>Registrate</h2>
                             <p>You need to complete a very simple registration form. Which contains all required contact information to enter in the donation process.</p>
                         </article>
 
@@ -112,7 +112,7 @@
                         </figure> <!-- end .cau<h5 class="step">1</h5>se-img  -->
 
                         <article class="process-info">
-                            <h2>Screening</h2>
+                            <h2>Inscribete</h2>
                             <p>A drop of blood from your finger will take for simple test to ensure that your blood iron levels are proper enough for donation process.</p>
                         </article>
 
@@ -133,7 +133,7 @@
                         </figure> <!-- end .process-img  -->
 
                         <article class="process-info">
-                            <h2>Donation</h2>
+                            <h2>Confirmación</h2>
                             <p>After ensuring and passed screening test successfully you will be directed to a donor bed for donation. It will take only 6-10 minutes.</p>
                         </article>
 
@@ -155,7 +155,7 @@
                         </figure> <!-- end .process-img  -->
 
                         <article class="process-info">
-                            <h2>Refreshment</h2>
+                            <h2>Ingresa</h2>
                             <p>You can also stay in sitting room until you feel strong enough to leave our center. You will receive awesome drink from us in donation zone. </p>
                         </article>
 
@@ -310,15 +310,15 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12">
 
                     <div class="testimony-layout-1">
-                        <h3 class="people-quote">Donor Opinion</h3>
+                        <h3 class="people-quote">¿Como te parecio el diplomado?</h3>
                         <p class="testimony-text">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else’s life makes me feel great!
+                            Primer Opinion!
                             <i class="fa fa-quote-right" aria-hidden="true"></i>
                         </p>
 
-                        <h6>Brandon Munson</h6>
-                        <span>CTO, Fulcrum Design, USA</span>
+                        <h6>NOMBRE DE OPINIÓN</h6>
+                        <span>México, CDMX</span>
 
                     </div> <!-- end .testimony-layout-1  -->
 
@@ -327,15 +327,15 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12">
 
                     <div class="testimony-layout-1">
-                        <h3 class="people-quote">Donor Opinion</h3>
+                        <h3 class="people-quote">Opinion sobre tus profesores</h3>
                         <p class="testimony-text">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            I have been a donor since high school. Although I have not been a donor every year, I always want to give to the human race. I love to help others! Moreover it gives a real peace in my mind.
+                            Segunda Opinión.
                             <i class="fa fa-quote-right" aria-hidden="true"></i>
                         </p>
 
-                        <h6>Brandon Munson</h6>
-                        <span>CTO, Fulcrum Design, USA</span>
+                        <h6>Nombre</h6>
+                        <span>México, Tamaulipas</span>
 
                     </div> <!-- end .testimony-layout-1  -->
 
@@ -344,15 +344,15 @@
                 <div class="col-md-10 col-md-offset-1 col-sm-12">
 
                     <div class="testimony-layout-1">
-                        <h3 class="people-quote">Recipient Opinion</h3>
+                        <h3 class="people-quote">Otra opinión</h3>
                         <p class="testimony-text">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            I wish I could tell you my donor how grateful I am for your selfless act.You gave me new life. We may be coworkers or schoolmates or just two in the same community.I'm very grateful to you.
+                            Otra opinion.
                             <i class="fa fa-quote-right" aria-hidden="true"></i>
                         </p>
 
-                        <h6>Brandon Munson</h6>
-                        <span>CTO, Fulcrum Design, USA</span>
+                        <h6>Nombre</h6>
+                        <span>México, CDMX</span>
 
                     </div> <!-- end .testimony-layout-1  -->
 
@@ -373,7 +373,7 @@
             <div class="row section-heading-wrapper">
 
                 <div class="col-md-12 col-sm-12 text-center">
-                    <h2 class="section-heading">Nuestros Tutores</h2>
+                    <h2 class="section-heading">Responsables de los cursos</h2>
                     <p class="section-subheading">Algunos de nuestros tutores.</p>
                 </div> <!-- end .col-sm-10  -->
 
@@ -394,7 +394,7 @@
 
                         <article class="team-info">
                             <h3>ALEXANDER GARY</h3>
-                            <h4>Co-Founder</h4>
+                            <h4>Especialidad</h4>
                         </article>
 
                         <div class="team-content">
